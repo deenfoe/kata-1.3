@@ -186,11 +186,7 @@ body {
     height: 40px;   
 }
 
-.active-button {
-    border-radius: 6px;
-    border: 2px solid #B8FFEC;
-    background-color: #fff;
-}
+
 
 .main-section__highlight {
     display: flex;
@@ -242,8 +238,14 @@ body {
     
          
 }
+.active-button {
+    border-radius: 6px;
+    border: 2px solid #B8FFEC;
+    background-color: #fff;
+}
 
 /* Стили для блока info */
+
 .info__about {
     
     padding-bottom: 16px;
